@@ -1,0 +1,11 @@
+.BackGround{
+  background-color: black;
+}
+
+.login-form{
+  width: 50%;
+  max-width: 330px;
+  padding: 15;
+  margin: auto;
+  height: 100%;
+  }
